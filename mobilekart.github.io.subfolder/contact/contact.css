@@ -1,0 +1,10 @@
+.contact{
+    text-align: center;
+    font-size: large;
+}
+.contact h1{
+    cursor: pointer;
+}
+.contact button{
+    font-size: 18px;
+}
